@@ -1,3 +1,18 @@
+### Run project
+
+Open two consoles: `server` and `client`. On server:
+
+```
+npm install
+npm run server
+```
+
+On client:
+
+```
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
